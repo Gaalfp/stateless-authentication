@@ -3,7 +3,6 @@ Restful APIs for a stateless authentication process with JWT. One to generate th
 
 ## Technologies used 
 [![Technologies](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,)](https://skillicons.dev)
-and of course JWT
 
 ### Swagger
 
