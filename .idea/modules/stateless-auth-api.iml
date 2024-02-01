@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../stateless-auth-api" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../stateless-auth-api" isTestSource="false" />
+    </content>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="e2f5a541-82fe-43ee-b3fa-cad09baf73c9" />
+  </component>
+</module>
